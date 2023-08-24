@@ -1,1 +1,6 @@
-Ejercicio 1: linea 30
+Ejercicio 1:
+
+Se ha encontrado un error que no permite la correcta compliación del archivo. Este error se encuntra en la linea 30 "Hola a Todos";
+
+El mensaje de error del compilador es de:
+ CS0201: Solo se pueden usar las expresiones de objeto assignment, call, increment, decrement, await y new como instrucción
