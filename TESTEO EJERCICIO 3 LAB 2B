@@ -1,0 +1,3 @@
+En la linea 54 y 55 se está removiendo el mismo elemento dos veces.
+Esto es un problema de eficacía ya que la línea 55 queda obsoleta por
+la instrucción anterior. No se encontraron más errores.
