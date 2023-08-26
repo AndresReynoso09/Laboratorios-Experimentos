@@ -1,0 +1,5 @@
+Hemos encontrado dos errores. El primero, consiste en que las posiciones dadas no coinciden
+con las posicion de las frases. Se están utilizando posiciones como si estuvieran en un 
+arreglo, sin embargo, el usuario puede carecer de conocimiento técnico de programación.
+El otro error a considerar podría ser que no se entiende bien el proceso de "En orden".
+Se podría plantear como "En orden alfabeticamente" para mejor comprensión del usuario.
